@@ -1,0 +1,11 @@
+[home]
+  other = 'Home'
+
+[lang_menu]
+  other = 'Language'
+
+[appearance_menu]
+  other = 'Appearance'
+
+[search_tag]
+  other = 'Type to search'
